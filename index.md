@@ -1,5 +1,5 @@
 ---
-title: Andreas Olofsson Personal Webpage
+title: Home
 ---
 
 ## About
@@ -21,7 +21,7 @@ The previous owner of our house was a general contractor who used the garage for
 
 ![garage_before](./assets/images/garage_before.jpg)
 
-To make better use of the space, I sub divided the garage into sections for different purpose: 
+To make better use of the space, I sub divided the garage into sections for different purpose:
 - A storage bunker inside the garage to hide away all my old Parallella stuff (out of side, out of mind)
 - A cubby hole style shelves for storing all our sports equipment
 - An electronic workb area for all the hobby projects I plan for but never get around to actually doing. Each one of the projects took about one weekend of work.
@@ -70,5 +70,3 @@ During this project, I was stressed out at work and in no mood to do everything 
 
 ![yard_excavator](./assets/images/yard_excavator.jpg)
 ![yard_sod](./assets/images/yard_sod.jpg)
-
-
