@@ -1,1 +1,0 @@
-Hi, my name is Andreas Olofsson and I am an electrical engineer living in Lexington, MA. For work, I design tiny tiny eletronic circuits manufactured in pristine factories, but on the weekends I like getting my hands dirty building stuff for my family.

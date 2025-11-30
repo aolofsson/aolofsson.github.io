@@ -1,9 +1,7 @@
 theme: minima
-title: My Website
+title: Andreas Olofsson Personal Web Page
 
 theme: minima
 title: Andreas Olofsson
 nav:
   - index.md
-  - projects.md
-  - about.md
