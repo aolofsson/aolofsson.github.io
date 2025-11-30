@@ -1,7 +1,5 @@
 theme: minima
 title: Andreas Olofsson Personal Web Page
-
-theme: minima
-title: Andreas Olofsson
+markdown: kramdown
 nav:
   - index.md
