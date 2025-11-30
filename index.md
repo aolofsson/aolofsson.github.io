@@ -7,7 +7,7 @@ title: Home
 
 Hi! My name is Andreas Olofsson and I am an electrical engineer living in Lexington, MA. For work, I spend my days on the  laptop designing invisible electronic circuits to be manufactured in pristine semiconductor factories. In my spare time I enjoy getting my hands dirty working on larger hardware projects for my family.
 
-## Home Projects
+## Projects
 
 ### Tree House (2016)
 
