@@ -1,0 +1,9 @@
+theme: minima
+title: My Website
+
+theme: minima
+title: Andreas Olofsson
+nav:
+  - index.md
+  - projects.md
+  - about.md
