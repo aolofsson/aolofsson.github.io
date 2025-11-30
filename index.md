@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Andreas Olofsson
-nav_title: Index
+title: Home
 ---
 
 ## About
